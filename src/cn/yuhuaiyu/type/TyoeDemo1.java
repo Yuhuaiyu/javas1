@@ -15,5 +15,6 @@ public class TyoeDemo1 {
         int i = 1500;
         byte j = (byte) i;
         System.out.println(j);
+        System.out.println("Hello world");
     }
 }
