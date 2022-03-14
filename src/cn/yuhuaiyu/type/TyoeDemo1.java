@@ -16,5 +16,7 @@ public class TyoeDemo1 {
         byte j = (byte) i;
         System.out.println(j);
         System.out.println("Hello world");
+        System.out.println("Hello world");
+        System.out.println("Hello world");
     }
 }
